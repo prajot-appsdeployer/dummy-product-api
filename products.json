@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Skateboard",
+    "quantity": 10,
+    "price": 25,
+    "image": "https://images.pexels.com/photos/165236/pexels-photo-165236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Shampoo",
+    "quantity": 14,
+    "price": 7,
+    "image": "https://images.pexels.com/photos/4465121/pexels-photo-4465121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "TV",
+    "quantity": 14,
+    "price": 299.99,
+    "image": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Pencil",
+    "quantity": 30,
+    "price": 1.56,
+    "image": "https://images.pexels.com/photos/159752/pencil-office-design-creative-159752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Smart TV",
+    "quantity": 16,
+    "price": 499.99,
+    "image": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Toothpicks",
+    "quantity": 134,
+    "price": 0.69,
+    "image": "https://images.pexels.com/photos/165236/pexels-photo-165236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Mouse",
+    "quantity": 141,
+    "price": 56,
+    "image": "https://images.pexels.com/photos/4465121/pexels-photo-4465121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Keyboard",
+    "quantity": 145,
+    "price": 99.99,
+    "image": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Monitor",
+    "quantity": 22,
+    "price": 159.99,
+    "image": "https://images.pexels.com/photos/159752/pencil-office-design-creative-159752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Mouse Pad",
+    "quantity": 116,
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
